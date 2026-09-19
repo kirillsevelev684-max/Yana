@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+dist/
+build/
+*.spec
+.venv/
+memory.json
+commands.json
+devices.json
+notes.json
+settings.json
+programs.json
+users.json
+voice_samples/
+voice_cache/
+model/
+*.log
